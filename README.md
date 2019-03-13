@@ -14,20 +14,10 @@ Losing employees of a company is known as Attrition. Attrition rate is the perce
 The main objective of this project is to find attributes for predicting attrition and use it for retaining employees, to know the valuable employee, to select the retention factors to predict attrition and retention, to find the best algorithm to do the prediction, to help the HRs to improve retention rate of valuable employees.
 
 SOFTWARE REQUIREMNTS :
-JUPYTER NOTEBOOK 5.4.
-LANGUAGE : Python
-VERSION: Python 3.4/3.6
-LIBRARIES
-numpy
-pandas
-matplotlib.pyplot
-sklearn
-seaborn
-csv
-random
-math
+JUPYTER NOTEBOOK 5.4,
+LANGUAGE : Python,
+VERSION: Python 3.4/3.6,
+LIBRARIES: numpy,pandas,
+matplotlib.pyplot,sklearn,seaborn,csv,random,math,
 
-HARDWARE REQUIREMENTS:
-LAPTOP or PC OF minimum
-4 GB RAM
-INTERNET
+HARDWARE REQUIREMENTS: LAPTOP or PC OF minimum 4 GB RAM and INTERNET
